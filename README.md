@@ -15,7 +15,6 @@ I automate everything except my laundry. Here to make sure your code runs smooth
 Let’s build something awesome—just don’t forget to document it! 🚀
 - 🌱 I’m currently learning Python, Kubernetes, ArgoCD
 - 👯 I’m looking to collaborate on Python, IaC, CI/CD pipelines, or Container projects
-- 🤔 I’m looking for help with Python and Kubernetes 
 
 <!--
 **jonalarson/jonalarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
